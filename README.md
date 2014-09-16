@@ -23,3 +23,6 @@ git remote add origin https://github.com/hannanma/test1_nvme_driver_fix.git
 
 # git pull
 git pull https://github.com/hannanma/test1_LeeCode_PracticeAndLearn.git master;
+
+#security
+login using my mail address and the TW password --- I bet you know, the most original version
